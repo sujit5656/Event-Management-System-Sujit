@@ -139,9 +139,9 @@ XAMPP Control Panel
 
 Start:
 
-  Apache
+* Apache
 
-  MySQL
+* MySQL
 
 Output:
 
