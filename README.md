@@ -220,6 +220,37 @@ Click:
 ```text
 Create
 ```
+ ### STEP 8 : Create table
+ Left side SQL tab open.
+
+Paste the code of clinet 
+
+CLIENT TABLE
+```text
+Pest here code
+```
+
+Click:
+```text
+GO
+```
+
+Reate the same task for create all tables
+
+Final OUTPUT
+
+Showing the left side tables like this:
+```text
+client
+event
+vendor
+booking
+staff
+payment
+```
+
+DONE ✅
+
 ---
 
 ## Features
