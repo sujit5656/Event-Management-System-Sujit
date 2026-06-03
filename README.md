@@ -1,4 +1,4 @@
-# Event Management System
+# online Event Management System
 
 ## Project Overview
 
@@ -31,11 +31,11 @@ Admin can:
 * XAMPP
 * phpMyAdmin
 
-## Database
+## Database Name:
 
-Database Name:
-
+```sql
 event_management
+```
 
 
 ## Developed By
@@ -70,13 +70,7 @@ Sujit Suryawanshi
 - Manage Vendors
 - Manage Feedback
 
----
 
-## Database Name
-
-```sql
-event_management
-```
 
 ---
 
@@ -212,8 +206,7 @@ Click:
 New
 ```
 Database Name:
-```text
-SQL
+```SQL
 event_management
 ```
 Click:
@@ -235,7 +228,7 @@ Click:
 GO
 ```
 
-Reate the same task for create all tables
+Repeate the same task for create all tables
 
 Final OUTPUT
 
@@ -250,6 +243,45 @@ payment
 ```
 
 DONE ✅
+
+### STEP 8 — DATABASE CONNECTION
+
+Now create:
+```text
+db.php
+```
+Code:
+
+```text
+Code in dp.php file go there and copy and pest here
+```
+
+### STEP 9 — HOME PAGE CREATE
+
+Create:
+```text
+index.php
+```
+Code:
+```text
+Code in index.php file go there and copy and pest here
+```
+
+### STEP 10 — RUN WEBSITE
+
+Browser me open karo:
+```text
+http://localhost/event-management
+```
+
+OUTPUT
+
+Showing on page like this:
+```text
+Online Event Management System
+Welcome to Event Booking Website
+[ Book Event ]
+```
 
 ---
 
