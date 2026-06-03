@@ -1,0 +1,216 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Navbar */
+
+.custom-nav{
+background:#8b0000;
+padding:15px 20px;
+}
+
+.logo{
+font-size:30px;
+font-weight:bold;
+letter-spacing:2px;
+}
+
+.nav-link{
+color:white !important;
+font-weight:600;
+margin-left:10px;
+}
+
+.logout-btn{
+background:#d9534f;
+color:white;
+padding:8px 18px;
+margin-left:15px;
+border-radius:5px;
+}
+
+.logout-btn:hover{
+background:#c9302c;
+color:white;
+}
+
+/* Hero */
+
+.hero{
+
+height:85vh;
+
+background:
+linear-gradient(
+rgba(0,0,0,0.45),
+rgba(0,0,0,0.45)
+),
+
+url('https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=1920');
+
+background-size:cover;
+background-position:center;
+
+display:flex;
+justify-content:center;
+align-items:center;
+text-align:center;
+}
+
+.hero-content{
+color:white;
+}
+
+.hero-content h1{
+font-size:72px;
+font-weight:bold;
+margin-bottom:25px;
+}
+
+.hero-content p{
+font-size:22px;
+margin-bottom:40px;
+}
+
+/* Buttons */
+
+.btn-book{
+background:#8b0000;
+color:white;
+padding:15px 35px;
+font-weight:bold;
+margin-right:10px;
+}
+
+.btn-book:hover{
+background:#6f0000;
+color:white;
+}
+
+.btn-gallery{
+background:white;
+color:#8b0000;
+padding:15px 35px;
+font-weight:bold;
+border:2px solid #8b0000;
+}
+
+.btn-gallery:hover{
+background:#8b0000;
+color:white;
+}
+
+/* Services */
+
+.services{
+padding:80px 0;
+background:#f8f8f8;
+}
+
+.services h2{
+text-align:center;
+font-size:55px;
+font-weight:bold;
+color:#8b0000;
+margin-bottom:60px;
+}
+
+.service-box{
+background:white;
+padding:30px;
+border-radius:10px;
+box-shadow:0 0 15px rgba(0,0,0,0.1);
+text-align:center;
+transition:0.3s;
+}
+
+.service-box:hover{
+transform:translateY(-10px);
+}
+
+/* Testimonials */
+
+.testimonial-section{
+padding:80px 0;
+background:white;
+}
+
+.testimonial-title{
+text-align:center;
+font-size:50px;
+font-weight:bold;
+color:#8b0000;
+margin-bottom:60px;
+}
+
+.testimonial-card{
+background:white;
+border:1px solid #ddd;
+padding:30px;
+text-align:center;
+border-radius:10px;
+height:100%;
+box-shadow:0 0 10px rgba(0,0,0,0.08);
+transition:0.3s;
+}
+
+.testimonial-card:hover{
+transform:translateY(-8px);
+}
+
+.testimonial-card img{
+width:80px;
+height:80px;
+border-radius:50%;
+margin-bottom:20px;
+}
+
+.testimonial-card p{
+font-style:italic;
+color:#666;
+margin-bottom:20px;
+}
+
+.testimonial-card h5{
+color:#8b0000;
+font-weight:bold;
+}
+
+.testimonial-card span{
+font-size:12px;
+color:gray;
+}
+
+/* Footer */
+
+footer{
+background:black;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+/* Mobile */
+
+@media(max-width:768px){
+
+.hero-content h1{
+font-size:40px;
+}
+
+.hero-content p{
+font-size:18px;
+}
+
+.services h2{
+font-size:35px;
+}
+
+.testimonial-title{
+font-size:35px;
+}
+
+}
