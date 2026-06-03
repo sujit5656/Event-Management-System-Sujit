@@ -122,9 +122,7 @@ Event-Management-System/
 
 ## Installation Steps
 
-### Step 1 : Install XAMPP for windows
-
-Download:
+### STEP 1 : Install XAMPP for windows
 
 XAMPP Official Website https://www.apachefriends.org
 
@@ -132,18 +130,24 @@ Install time:
 
 ✅ Apache
 ✅ MySQL
+
 To select and start.
 
 
-### Step 2 : Install VS Code
-```text
-VS Code Official website : https://code.visualstudio.com/?utm_source=chatgpt.com
-```
+### STEP 2 : Install VS Code
+
+VS Code Official website https://code.visualstudio.com/?utm_source=chatgpt.com
 
 Copy project folder to:
 
+### STEP 3 : PROJECT FOLDER CREATE
+Go to:
 ```text
-htdocs/
+C:\xampp\htdocs\
+```
+New Folder Create:
+```text
+event-management
 ```
 
 ### Step 3
