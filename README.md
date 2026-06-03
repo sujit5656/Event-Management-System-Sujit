@@ -119,6 +119,7 @@ Event-Management-System/
 
 ---
 
+
 ## Installation Steps
 
 ### Step 1 : Install XAMPP for windows
@@ -134,7 +135,10 @@ Install time:
 To select and start.
 
 
-### Step 2
+### Step 2 : Install VS Code
+```text
+VS Code Official website : https://code.visualstudio.com/?utm_source=chatgpt.com
+```
 
 Copy project folder to:
 
