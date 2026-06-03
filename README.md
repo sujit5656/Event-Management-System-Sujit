@@ -121,9 +121,18 @@ Event-Management-System/
 
 ## Installation Steps
 
-### Step 1
+### Step 1 : Install XAMPP for windows
 
-Install XAMPP
+Download:
+
+XAMPP Official Website https://www.apachefriends.org
+
+Install time:
+
+✅ Apache
+✅ MySQL
+To select and start.
+
 
 ### Step 2
 
