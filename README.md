@@ -122,8 +122,8 @@ Event-Management-System/
 
 ## Installation Steps
 
-### STEP 1 : Install XAMPP for windows
-
+### STEP 1 : SOFTWARE INSTALL
+1. Install XAMPP
 XAMPP Official Website https://www.apachefriends.org
 
 Install time:
@@ -133,12 +133,23 @@ Install time:
 
 To select and start.
 
+2. Install VS Code
+   https://code.visualstudio.com/?utm_source=chatgpt.com
 
-### STEP 2 : Install VS Code
+### STEP 2 : XAMPP START
+Open:
 
-VS Code Official website https://code.visualstudio.com/?utm_source=chatgpt.com
+XAMPP Control Panel
 
-Copy project folder to:
+Start:
+
+Apache
+MySQL
+
+Output:
+
+Showing RUNNING in Green color 
+
 
 ### STEP 3 : PROJECT FOLDER CREATE
 Go to:
@@ -150,12 +161,16 @@ New Folder Create:
 event-management
 ```
 
-### Step 3
-
-Start:
-
-- Apache
-- MySQL
+### STEP 4 : OPEN VS CODE 
+After open VS Code.
+Then:
+```text
+File → Open Folder
+```
+Select:
+```text
+event-management
+```
 
 ### Step 4
 
