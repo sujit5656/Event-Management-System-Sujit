@@ -37,13 +37,10 @@ Database Name:
 
 event_management
 
-## Project Guide
-
-Mrs. Pratima Gund
 
 ## Developed By
 
-Sujit S
+Sujit Suryawanshi
 
 ## Academic Year
 
