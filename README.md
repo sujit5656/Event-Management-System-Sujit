@@ -123,17 +123,13 @@ Event-Management-System/
 ## Installation Steps
 
 ### STEP 1 : SOFTWARE INSTALL
-1. Install XAMPP
+1. Install XAMPP :
+   
 XAMPP Official Website https://www.apachefriends.org
 
-Install time:
-
-✅ Apache
-✅ MySQL
-
-To select and start.
 
 2. Install VS Code
+ 
    https://code.visualstudio.com/?utm_source=chatgpt.com
 
 ### STEP 2 : XAMPP START
