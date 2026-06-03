@@ -132,6 +132,7 @@ Event-Management-System/
  
    https://code.visualstudio.com/?utm_source=chatgpt.com
 
+
 ### STEP 2 : XAMPP START
 Open:
 
@@ -170,15 +171,42 @@ Select:
 event-management
 ```
 
-### Step 4
-
-Import database:
-
+### STEP 5 — PROJECT FOLDER STRUCTURE
 ```text
-event_management.sql
+Event-Management-System/
+│
+├── index.php
+├── booking.php
+├── payment.php
+├── payment-slip.php
+├── feedback.php
+├── login.php
+├── register.php
+├── customer-dashboard.php
+├── db.php
+│
+├── admin/
+│   ├── admin-login.php
+│   ├── dashboard.php
+│   ├── manage-bookings.php
+│   ├── manage-events.php
+│   ├── manage-vendors.php
+│   └── manage-feedback.php
+│
+├── css/
+├── images/
+```
+### STEP 6 — DATABASE CREATE
+
+### STEP 6.1 — phpMyAdmin OPEN
+
+open Browser & Surch:
+```text
+http://localhost/phpmyadmin
 ```
 
-### Step 5
+
+### Step 7
 
 Open browser:
 
