@@ -125,7 +125,7 @@ Event-Management-System/
 ### STEP 1 : SOFTWARE INSTALL
 1. Install XAMPP :
    
-XAMPP Official Website https://www.apachefriends.org
+   XAMPP Official Website https://www.apachefriends.org
 
 
 2. Install VS Code
@@ -139,8 +139,9 @@ XAMPP Control Panel
 
 Start:
 
-Apache
-MySQL
+  Apache
+
+  MySQL
 
 Output:
 
@@ -159,6 +160,7 @@ event-management
 
 ### STEP 4 : OPEN VS CODE 
 After open VS Code.
+
 Then:
 ```text
 File → Open Folder
