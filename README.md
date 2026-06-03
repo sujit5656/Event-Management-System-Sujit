@@ -196,9 +196,8 @@ Event-Management-System/
 ├── css/
 ├── images/
 ```
-### STEP 6 — DATABASE CREATE
 
-### STEP 6.1 — phpMyAdmin OPEN
+### STEP 6 — phpMyAdmin OPEN
 
 open Browser & Surch:
 ```text
@@ -206,14 +205,21 @@ http://localhost/phpmyadmin
 ```
 
 
-### Step 7
+### Step 7 : DATABASE CREATE
 
-Open browser:
-
+Click:
 ```text
-http://localhost/event-management
+New
 ```
-
+Database Name:
+```text
+SQL
+event_management
+```
+Click:
+```text
+Create
+```
 ---
 
 ## Features
