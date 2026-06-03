@@ -206,7 +206,8 @@ Click:
 New
 ```
 Database Name:
-```SQL
+```text
+SQL
 event_management
 ```
 Click:
